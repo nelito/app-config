@@ -10,3 +10,6 @@ logging: # <----New sections below
   level:
     io:
       pivotal: DEBUG
+
+ribbon: # <---NEW SECTION
+  IsSecure: false
